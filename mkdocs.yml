@@ -1,0 +1,8 @@
+site_name: Raspberry Pi Changes
+nav:
+    - Home: index.md
+    - Peripherals: peripherals.md
+    - Virtual Envs: virtualenv.md
+    - About: about.md
+theme: readthedocs
+
